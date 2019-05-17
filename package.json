@@ -1,0 +1,19 @@
+{
+  "name": "vue-back-stack",
+  "version": "0.0.1",
+  "description": "基于vue的后退栈组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "back",
+    "stack"
+  ],
+  "author": "dev_account@cifi.com.cn",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
