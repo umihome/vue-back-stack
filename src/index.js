@@ -5,6 +5,7 @@ import Vue from 'vue'
 let routerLinks = []
 let historyStash = []
 let _router = null
+let _routers = null
 
 const init = (routers, router) => {
   generateRouterLinks(routers)

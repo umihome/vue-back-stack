@@ -1,3 +1,3 @@
-let backStack = require('./src/index')
+import backStack from './src/index'
 
-exports = backStack
+export default backStack
